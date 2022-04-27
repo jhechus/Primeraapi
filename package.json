@@ -1,0 +1,15 @@
+{
+  "name": "primer-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js",
+    "start": "node app.js"
+  },
+  "author": "jechus",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
